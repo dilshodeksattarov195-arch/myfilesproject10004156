@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authrpdate",
+        "uuid": 27924164,
+        "checksum": "cq4k1l"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
